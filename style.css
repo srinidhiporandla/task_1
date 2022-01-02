@@ -1,0 +1,27 @@
+
+h2
+{
+    margin-left: 25em;
+ margin-top: 0;
+ color:rgb(37, 34, 22);
+}
+.box-1{display: initial;
+    background-color:white;
+    font-family:'Times New Roman', Times, serif;
+    font-size-adjust: inherit;
+    font-weight:normal;
+    line-height: 0.3em;
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+}
+body{
+    background-color: white;
+    color:black;
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+}
+img {
+    display: block;
+    margin-right: auto;
+    width: 15%;
+  }
